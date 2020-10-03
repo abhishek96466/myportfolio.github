@@ -39,4 +39,3 @@ var balls = document.getElementsByClassName("ball");
       balls[i].style.transform = "translate(-"+x+",-"+y+")";
     }
   }
-
